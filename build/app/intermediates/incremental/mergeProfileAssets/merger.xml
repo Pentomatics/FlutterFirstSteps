@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\development\AndroidStudioProjects\startup_namer\android\app\src\main\assets"/><source path="E:\development\AndroidStudioProjects\startup_namer\build\app\generated\assets\shaders\profile"/></dataSet><dataSet config="profile"><source path="E:\development\AndroidStudioProjects\startup_namer\android\app\src\profile\assets"/></dataSet></merger>

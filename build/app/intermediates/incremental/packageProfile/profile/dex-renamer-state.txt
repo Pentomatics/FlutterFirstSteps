@@ -1,0 +1,4 @@
+#Wed Aug 15 12:32:39 CEST 2018
+base.0=E\:\\development\\AndroidStudioProjects\\startup_namer\\build\\app\\intermediates\\transforms\\dexMerger\\profile\\0
+path.0=classes.dex
+renamed.0=classes.dex
